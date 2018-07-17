@@ -1,0 +1,2 @@
+# safelinkcop4sberita
+script
